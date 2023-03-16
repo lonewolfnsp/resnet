@@ -1,3 +1,4 @@
-This shows transfer learning using Residual networks with a custom dataset from kaggle
-
-test SSH check in 
+# Transfer Learning using Residual Network
+* Transfer learning using resnet
+* dataset comes from Kaggle
+* uses Pytorch
